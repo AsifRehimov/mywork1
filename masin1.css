@@ -1,0 +1,267 @@
+.ilk {
+    width: 1340px;
+    height: auto;
+    margin: 30px auto
+}
+
+.basliq {
+    width: 1140px;
+    height: 150px;
+    float:
+        right;
+    background: url(arxa-fon.jpg)
+}
+
+.logo {
+    float: left
+}
+
+.basliq h2 {
+    font: 45px algerian;
+    color: white;
+    margin: 50px 0 0 350px
+}
+.menu1 {
+    width: 1340px;
+    height: 40px;
+    margin: 0;
+}
+
+.menu1 ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.menu1 ul li {
+    float: left;
+    position: relative;
+}
+
+.menu1 ul li a {
+    width: 333px;
+    display: block;
+    background: black;
+    color: white;
+    font: bold 14px tahoma;
+    text-decoration: none;
+    padding: 9px 0;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.menu1 ul li a:hover {
+    color: white;
+    background: grey;
+
+}
+
+.menu1 ul li ul {
+    display: none;
+    position: absolute;
+    top: 34px;
+    left: 0;
+
+}
+
+.menu1 ul li:hover ul {
+    display: block;
+}
+
+.masin1 {
+    width: 1340px;
+    height: 440px;
+    margin: 5px 0 0 0;
+}
+
+.sekil1 {
+    float: left;
+    margin: 0;
+}
+
+.yazi1 {
+    float: right;
+    padding: 0 15px 0 15px;
+    margin: 0;
+    width: 32%;
+    font: 18px tahoma;
+}
+.yazi1 h4 a{
+        font: 22px tahoma;
+color: green;
+    text-decoration: none;
+   padding: 0 0 0 50px;
+}
+.yazi1 h4 a:hover{
+    text-decoration-line: overline; 
+color: red;
+}
+}
+
+.masin2 {
+    width: 1340px;
+    height: 477px;
+    margin: 5px 0 0 0;
+}
+
+.sekil2 {
+    width: 800px;
+    height: 477px;
+    float: right;
+}
+
+.yazi2 {
+    float: left;
+    font: 18px tahoma;
+    width: 35%;
+    padding: 0 15px 0 15px;
+
+}
+.yazi2 h4 a{
+    font: 22px tahoma;
+    color: green;
+    text-decoration: none;
+   padding: 40px 0 0 60px;
+}
+.yazi2 h4 a:hover{
+     text-decoration-line: overline; 
+color: red;
+}
+}
+.masin3 {
+    width: 1340px;
+    height: 445px;
+    margin: 5px 0 0 0;
+}
+.sekil3{
+    float: left
+}
+.yazi3{
+    float: right;
+    font: 18px tahoma;
+    padding: 0 15px 0 15px;
+    width: 43%;
+}
+.yazi3 h4 a{ 
+  font: 22px tahoma;
+    color: green;
+    text-decoration: none;
+   padding: 40px 0 0 150px;
+    
+}
+.yazi3 h4 a:hover{ text-decoration-line: overline; 
+color: red;
+}
+.video1{
+    float: right
+}
+.yazi4 a{
+     font: 22px tahoma;
+    color: green;
+    text-decoration: none;
+   padding: 40px 0 0 30px;
+}
+.yazi4{float: left;
+width: 30%;
+font: 18px tahoma;
+padding: 0 15px 0 15px 
+}
+.yazi4 a:hover{
+     text-decoration-line: overline; 
+color: red;
+}
+.masin4{
+    width: 1340px;
+    height: 540px;
+    float: left;
+}
+.asagi{
+    width: 1340px;
+    height: 400px;
+    float: left;
+    background: #3b3131;
+}
+.sira1{
+    float: left;
+    width: 445px;
+    height: 280px
+}
+.sira1 h4{
+    color: white;
+    padding: 20px 0 0 100px;
+    font: 20px calibri
+}
+.sira1 li{ 
+    color: white;
+    font: 16px tahoma;
+    padding: 0 100px;
+   list-style: none;
+ 
+} 
+.sira1 ul li{ 
+    margin: 5px 0 0 0
+}
+.sira2{
+    width: 445px;
+    height: 280px;
+    float: left;
+}
+.sira2 h4{
+    color: white;
+    padding: 20px 0 0 100px;
+    font: 20px calibri
+}
+
+.sira2 ul li{
+    margin: 5px 0 0 0
+}
+.olke1{width: 245px;
+     height: 280px;
+    float: left
+}
+.olke1 ul li { 
+    color: white;
+    font: 16px tahoma;
+    
+    list-style:disc;
+ 
+} 
+.olke{
+    width: 200px;
+    height: 200px;
+    
+    float: right;
+}
+.olke ul li{
+     color: white;
+    font: 16px tahoma;
+    padding: 0 ;
+    list-style: disc;
+}
+.sira3{
+    width: 450px;
+    height: 280px;
+    float: right;
+}
+.sira3 h4{
+     color: white;
+    padding: 20px 0 0 100px;
+    font: 20px calibri
+}
+.sira3 li{
+    color: white;
+    font: 16px tahoma;
+    margin: 20px 0 0 100px;
+   
+}
+.sira4{
+    width: 1340px;
+    height: 40px;
+    float: left;
+    background:
+}
+.sos{ width: 151px;
+height: 30px;
+    
+    margin: 80px auto 0 auto ;
+}
